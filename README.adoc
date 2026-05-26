@@ -23,6 +23,10 @@ Implemented Contact Mechanism related functionalities, including:
 - Telecom Number creation
 - Contact Mechanism association with Party
 
+### Product Data Model 
+
+https://github.com/RANINA12/Ofbiz-ProductMgr 
+
 ## Data Configuration
 Created required data files for:
 
